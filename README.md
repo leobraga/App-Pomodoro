@@ -5,7 +5,8 @@ O Aplicativo Pomodoro é um método de gerenciamento de tempo baseado em períod
 The Pomodoro App is a time management method based on 25-minute periods of focused study or work, interrupted by 5-minute breaks. After four consecutive study breaks, longer breaks are usually taken, which can range from 15 to 30 minutes.
 
 
-![App Pomodoro](https://github.com/leobraga/App-Pomodoro/assets/5011216/12627b3a-eb66-40f3-934a-1424f32a6701)
+![App Pomodoro](https://github.com/leobraga/App-Pomodoro/assets/5011216/afd9d66c-3f93-46e4-8bba-d5ce08fb9e27)
+
 
 
 
